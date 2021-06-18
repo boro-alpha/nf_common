@@ -1,0 +1,11 @@
+setuptools
+pandas
+xlrd
+chardet
+h5py
+tables
+numpy
+pyodbc
+kafka-python
+psutil
+msaccessdb
