@@ -1,8 +1,8 @@
 # NF Common
 
-NF Common is a reference library containing utility functions that are being used by other projects within the NF Common domain - see links below.
+NF [New Foundations](https://en.wikipedia.org/wiki/New_Foundations) Common is a reference library containing utility functions that are being used by other projects within the NF Common domain - see links below.
 
-**This project is currently closed, but can be sporadically updated by the BORO Development Team it in the future.**
+**This project is currently closed, but may be sporadically updated by the BORO Development Team in the future.**
 
 ## Execution
 
@@ -13,7 +13,7 @@ NF Common is a reference library containing utility functions that are being use
 For examples see usages in the following projects:
 
 * https://github.com/boro-alpha/uniclass_to_nf_ea_com.git
-* https://github.com/boro-alpha/bclearer_boson_1.git
+* https://github.com/boro-alpha/bclearer_boson_1_1.git
 
 ## Documentation
 
